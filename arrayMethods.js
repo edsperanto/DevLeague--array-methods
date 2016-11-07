@@ -24,3 +24,6 @@ nameArray.push("Gao");
 for(var i = 6; i <= 10; i++) {
   genericNumberArray.push(i);
 }
+
+//pop()
+var popResult = colors.pop();
