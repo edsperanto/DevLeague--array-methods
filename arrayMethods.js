@@ -27,3 +27,7 @@ for(var i = 6; i <= 10; i++) {
 
 //pop()
 var popResult = colors.pop();
+
+//reserse()
+scrambledWords.reverse();
+phoneNumber.reverse();
