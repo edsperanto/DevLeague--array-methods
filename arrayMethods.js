@@ -31,3 +31,6 @@ var popResult = colors.pop();
 //reserse()
 scrambledWords.reverse();
 phoneNumber.reverse();
+
+//shift()
+var nextOrder = orderQueue.shift();
