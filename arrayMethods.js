@@ -34,3 +34,7 @@ phoneNumber.reverse();
 
 //shift()
 var nextOrder = orderQueue.shift();
+
+//sort()
+mixedNums.sort();
+mixedWords.sort();
