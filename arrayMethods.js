@@ -58,3 +58,7 @@ var updatedOrders = orderQueue.concat({ takeOut: 'Latte' }, { takeOut: 'Pumpkin 
 //join()
 var sentence = scrambledWords.join(" ");
 var myFruits = fruitCollection.join(" + ");
+
+//slice()
+var favoriteFriends = friends.slice(1, 3);
+var owesMoney = friends.slice(3,6);
